@@ -84,14 +84,14 @@ const timeline: TimelineItem[] = [
     description:
       "Vedu IT a vývoj v největším lyžařském resortu v Česku — 50 km sjezdovek, 6 propojených areálů, jedna z nejnavštěvovanějších horských destinací střední Evropy.",
     accent: true,
-   details: [
+ details: [
   "SkiResort Černá hora · Pec spojuje pod jeden skipas areály Černá hora, Pec pod Sněžkou, Černý Důl, Malá Úpa, Velká Úpa a Svoboda nad Úpou.",
-  "Zodpovídám za odbavovací platformu Skidata — stovky turniketů, desítky výdejních automatů a stovky koncových zařízení napříč šesti areály.",
-  "Zodpovídám za návrh a rozvoj e-shopu pro online prodej skipasů (skiresortcard.cz), propojeného s výdejem skipasů z automatů sKiosek. E-shop dnes odbaví ~80 % všech lyžařů.",
-  "Spravuji platformu, která za sezony pod mojí odpovědností kumulativně odbavila tržby v řádu miliard korun.",
+  "Spravuji odbavovací platformu Skidata — stovky turniketů, desítky výdejních automatů a stovky koncových zařízení napříč šesti areály.",
+  "Vedl jsem návrh a dnes rozvíjím e-shop pro online prodej skipasů (skiresortcard.cz), propojený s výdejem skipasů z automatů sKiosek. E-shop dnes odbaví ~80 % všech lyžařů.",
+  "Platforma pod mojí správou kumulativně odbavila tržby v řádu miliard korun.",
   "Customer journey od první návštěvy webu po naskenování skipasu na turniketu — analýza, návrh a optimalizace. Navrhuji a rozvíjím AI chatbota a voicebota pro samoobslužné odbavení zákazníků a snížení zátěže call centra.",
   "Aktuálně rozvíjím vlastní systém pro detekci nebezpečných situací na sjezdovkách a přepravních zařízeních — strojové vidění (Ultralytics YOLO, Roboflow), pose estimation a predikce pádu, vlastní servery s GPU pro real-time inferenci.",
-  "Zodpovídám za síťovou a bezpečnostní infrastrukturu — Hikvision, Ubiquiti, FortiGate, MediaMTX pro zpracování video streamů, Cloudflare na perimetru.",
+  "Starám se o síťovou a bezpečnostní infrastrukturu — MikroTik, Hikvision, Ubiquiti, FortiGate, MediaMTX pro zpracování video streamů, Cloudflare na perimetru.",
   "Navrhuji a implementuji marketingové automatizace a datové pipeline — Make, Google Apps Script, BigQuery, Google Sheets, propojení s SmartEmailing, Supportbox, Raynet a Tabidoo.",
 ],
     link: {
